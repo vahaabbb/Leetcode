@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vahaabbb/task/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vahaabbb/task/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vahaabbb/task/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vahaabbb/task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vahaabbb/task/tree/master/0027-remove-element) |
+| [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/vahaabbb/task/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vahaabbb/task/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vahaabbb/task/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/vahaabbb/task/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/vahaabbb/task/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vahaabbb/task/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->

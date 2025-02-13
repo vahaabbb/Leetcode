@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vahaabbb/task/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vahaabbb/task/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/vahaabbb/task/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vahaabbb/task/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/vahaabbb/task/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->

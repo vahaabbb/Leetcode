@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vahaabbb/task/tree/master/0013-roman-to-integer) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vahaabbb/task/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/vahaabbb/task/tree/master/1848-sum-of-unique-elements) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vahaabbb/task/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vahaabbb/task/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/vahaabbb/task/tree/master/0412-fizz-buzz) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vahaabbb/task/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vahaabbb/task/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/vahaabbb/task/tree/master/2491-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vahaabbb/task/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->

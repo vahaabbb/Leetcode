@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vahaabbb/task/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vahaabbb/task/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/vahaabbb/task/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vahaabbb/task/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/vahaabbb/task/tree/master/2383-add-two-integers) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vahaabbb/task/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/vahaabbb/task/tree/master/0268-missing-number) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vahaabbb/task/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/vahaabbb/task/tree/master/1848-sum-of-unique-elements) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vahaabbb/task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vahaabbb/task/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/vahaabbb/task/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/vahaabbb/task/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/vahaabbb/task/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/vahaabbb/task/tree/master/2048-build-array-from-permutation) |
@@ -72,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vahaabbb/task/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vahaabbb/task/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vahaabbb/task/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vahaabbb/task/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

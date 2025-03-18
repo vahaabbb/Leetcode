@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vahaabbb/task/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/vahaabbb/task/tree/master/0782-jewels-and-stones) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/vahaabbb/task/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2128-reverse-prefix-of-word](https://github.com/vahaabbb/task/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vahaabbb/task/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vahaabbb/task/tree/master/0020-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/vahaabbb/task/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vahaabbb/task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vahaabbb/task/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/vahaabbb/task/tree/master/0344-reverse-string) |
+| [2128-reverse-prefix-of-word](https://github.com/vahaabbb/task/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
